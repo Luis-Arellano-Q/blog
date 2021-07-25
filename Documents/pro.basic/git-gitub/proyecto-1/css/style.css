@@ -1,5 +1,14 @@
 body {
   text-align: center;
   font-family: cursive;
-  background: salmon;
+  background: rgba(224, 151, 143, 0.808);
+  
+}
+div {
+
+  width: 500px;
+  height: 25vh;
+  color: rgb(95, 15, 95);
+  margin: 0 auto;
+  border: 1px solid rgb(95, 15, 95);
 }
