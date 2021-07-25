@@ -1,3 +1,5 @@
 hola soy luis y estoy aprendiendo 
 
-gut y github.
+git y github.
+
+Despues de haberlo dejado.
