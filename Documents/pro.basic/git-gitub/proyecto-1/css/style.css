@@ -1,4 +1,5 @@
 body {
+  text-transform: uppercase;
   text-align: center;
   font-family: cursive;
   background: rgba(224, 151, 143, 0.808);
@@ -11,4 +12,15 @@ div {
   color: rgb(95, 15, 95);
   margin: 0 auto;
   border: 1px solid rgb(95, 15, 95);
+}
+
+#cabecera {
+  display: flex;
+  background: rgb(138, 56, 138);
+  color: white;
+  width: 500px;
+  height: 30px;
+  padding: 10px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
 }
