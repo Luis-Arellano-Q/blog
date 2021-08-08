@@ -3,13 +3,12 @@ body {
   text-align: center;
   font-family: cursive;
   background: rgba(224, 151, 143, 0.808);
-  
+  color: aqua;
 }
 div {
 
   width: 500px;
   height: max-content ;
-  color: rgb(95, 15, 95);
   margin: 0 auto;
   border: 1px solid rgb(95, 15, 95);
 }
