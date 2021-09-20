@@ -2,20 +2,20 @@ body {
   text-transform: uppercase;
   text-align: center;
   font-family: cursive;
-  background: rgba(224, 151, 143, 0.808);
-  color: aqua;
+  background: rgba(212, 196, 194, 0.808);
+  color: rgb(29, 141, 141);
 }
 div {
 
   width: 500px;
   height: max-content ;
   margin: 0 auto;
-  border: 1px solid rgb(95, 15, 95);
+  border: 3px solid rgb(180, 30, 180);
 }
 
 #cabecera {
   display: flex;
-  background: rgb(138, 56, 138);
+  background: rgb(233, 85, 233);
   color: white;
   width: 100%;
   height: 30px;
