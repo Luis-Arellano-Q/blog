@@ -4,6 +4,12 @@ git y github.
 
 Mañana es domingo.
 
+<<<<<<< HEAD
 Master 1
 
 main 2
+=======
+Experimento 1
+
+Master 1
+>>>>>>> a6be849 (experimento 1)
