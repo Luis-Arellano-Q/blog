@@ -16,6 +16,6 @@ Agregaremos las pruebas con rebase.
 
 prueba 1 (°+°)
 
-prueba 2
+prueba 2 ('_')
 
 prueba 3
