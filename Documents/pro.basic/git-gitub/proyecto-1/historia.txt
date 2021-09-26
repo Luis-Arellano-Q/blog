@@ -12,4 +12,11 @@ Haciendo rebase
 
 Esto fue guardado en stash.
 (°_°)
+
 Agregaremos las pruebas con rebase.
+
+prueba 1 (°+°)
+
+prueba 2 ('_')
+
+prueba 3 (*.*))
