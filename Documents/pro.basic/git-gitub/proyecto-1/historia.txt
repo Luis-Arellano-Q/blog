@@ -9,3 +9,5 @@ Experimento 1
 main 2
 
 Haciendo rebase
+
+Esto fue guardado en stash.
